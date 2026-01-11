@@ -16,8 +16,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## notes
-Python 3.10+ recommandé
+Python 3.13+ recommandé
 
 TensorFlow 2.13 et Keras 3
+
 
 Supprimer les anciens fichiers model_lstm*.h5 ou .keras avant de recharger
