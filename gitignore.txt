@@ -1,0 +1,10 @@
+# Modèles volumineux
+model_lstm.keras
+modele_bert/
+modele_distilbert/
+*.pickle
+*.zip
+
+# Python
+__pycache__/
+*.pyc
